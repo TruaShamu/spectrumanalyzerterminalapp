@@ -1,0 +1,1 @@
+Spectrum analyzer consoleapp - clone the repo, open terminal, run dotnet run, play audio.
